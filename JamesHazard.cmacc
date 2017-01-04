@@ -1,0 +1,21 @@
+$ first_Name = "James";
+
+$ last_Name = "Hazard";
+
+$ full_Name = "{{fist_Name}} {{last_Name}}";
+
+$ city = [../cmacc-example-geo/USA/MA/Suffolk/Boston.cmacc];
+
+/ setting for US
+
+$ name_Prefix_US = "Mr.";
+
+$ sign_Title_US = "Self";
+
+$ gender_US = [../cmacc-lib-us/_he.cmacc];
+
+// settings for France
+
+$ name_Prefix_FR = "M.";
+
+$ gender_FR = [../cmacc-lib-fr/_il.cmacc];

@@ -1,0 +1,10 @@
+{
+  "name": "cmacc-example-id",
+  "version": "1.0.0",
+  "description": "Sample IDs",
+  "main": "index.js",
+  "repository": "https://github.com/Cmacclang/cmacc-example-id.git",
+  "author": "Marc Dangeard <marc@dangeard.com>",
+  "license": "MIT",
+  "flat":true
+}
