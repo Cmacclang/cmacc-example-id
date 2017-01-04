@@ -2,7 +2,7 @@ $ first_Name = "James";
 
 $ last_Name = "Hazard";
 
-$ full_Name = "{{fist_Name}} {{last_Name}}";
+$ full_Name = "{{first_Name}} {{last_Name}}";
 
 $ city = [../cmacc-example-geo/USA/MA/Suffolk/Boston.cmacc];
 
