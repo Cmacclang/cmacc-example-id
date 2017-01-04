@@ -1,27 +1,31 @@
-$ gender = [./gender/She.cmacc];
+$ first_Name = "Roberta";
 
-$ pron = [../Form/_sing.cmacc];
+$ last_Name = "Robinson";
 
-$ name_First = "Roberta";
+$ full_Name = "{{first_Name}} {{last_Name}}";
 
-$ name_Last = "Robinson";
-
-$ name_Full = "{{name_First}} {{name_Last}}";
-
-$ name_Formal = "Ms. Robinson";
+$ formal_Name = "Ms. Robinson";
 
 $ adr_Type = "business";
 
 $ phone = "918.981.8918";
 
-$ email_Bus = "roberta@robinsonandson.com";
+$ bus_Email = "roberta@robinsonandson.com";
 
-$ fax_Bus = "918.981.8918";
+$ bus_Fax = "918.981.8918";
 
-$ sign_RepTitle = "Self";
+$ sign_Rep_Title = "Self";
 
 $ notice_Title = "Personal";
 
-$ adr = [../Geo/USA/NY/Ulster/Woodstock/WindingDr/666/Geo.cmacc];
+// info for US/English
 
-$ ilelle = [../FR/_elle.cmacc];
+$ adr = [../cmacc-example-geo/USA/NY/Ulster/Woodstock/WindingDr/666/Geo.cmacc];
+
+$ gender_US = [../cmacc-lib-us/_she.cmacc];
+
+$ pron_US = [../cmacc-lib-us/_sing.cmacc];
+
+// info for France/French
+
+$ gender_FR = [../cmacc-lib-fr/_elle.cmacc];

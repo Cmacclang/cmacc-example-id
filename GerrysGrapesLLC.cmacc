@@ -1,6 +1,6 @@
-$ name_Full = "Gerry's Grapes, LLC2";
+$ full_Name = "Gerry's Grapes, LLC2";
 
-$ name_Dear = "Gerry's Grapes";
+$ dear_Name = "Gerry's Grapes";
 
 $ entity_a = "a Massachusetts LLC";
 
@@ -8,12 +8,10 @@ $ adr_Type = "business";
 
 $ claim_Response_Delay = "two business days from the date of the Claim";
 
-$ adr = [../Geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc];
+$ adr = [../cmacc-example-geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc];
 
-$ sign_RepTitle = "Founder";
+$ sign_Rep_Title = "Founder";
 
-$ sign_Rep = [../ID/geraldine_graber.cmacc];
+$ sign_Rep = [./GeraldineGraber.cmacc];
 
-$ pron = [../Form/_plur.cmacc];
-
-
+$ pron = [../cmacc-lib-us/_plur.cmacc];

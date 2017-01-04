@@ -1,13 +1,11 @@
-$ name_First = "Willem";
+$ first_Name = "Willem";
 
-$ name_Last = "Veelenturf";
+$ last_Name = "Veelenturf";
 
-$ name_Full = "{{name_First}} {{name_Last}}";
+$ full_Name = "{{first_Name}} {{last_Name}}";
 
 $ city = "Utrecht";
 
-$ gender = [../ID/gender/he.cmacc];
+$ gender = [../cmacc-lib-us/_he.cmacc];
 
-$ pron = [../Form/_sing.cmacc];
-
-
+$ pron = [../cmacc-lib-us/_sing.cmacc];

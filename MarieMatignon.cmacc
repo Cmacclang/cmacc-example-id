@@ -1,20 +1,19 @@
-$ name_First = "Marie";
+$ first_Name = "Marie";
 
-$ name_Last = "Matignon";
+$ last_Name = "Matignon";
 
-$ name_Full = "{{name_First}} {{name_Last}}";
+$ full_Name = "{{first_Name}} {{last_Name}}";
 
-$ name_Formal = "Mme. Matignon";
+$ formal_Name = "Mme. Matignon";
 
 $ sign_Title = "Self";
 
 $ email = "marie@matignon.fr";
 
-$ adr = [../Geo/FR/Ile_de_France/Paris/Paris/rue_du_grand_chemin/100/Geo.cmacc];
+$ adr = [../cmacc-example-geo/FR/Ile_de_France/Paris/Paris/rue_du_grand_chemin/100/Geo.cmacc];
 
 $ adr_Type = "personal";
 
-$ pron = [../Form/_sing.cmacc];
+$ pron = [../cmacc-lib-us/_sing.cmacc];
 
-$ gender = [./gender/she.cmacc];
-
+$ gender = [./cmacc-lib-us/_she.cmacc];

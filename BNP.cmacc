@@ -1,20 +1,19 @@
-$ name_Full = "BNP Paribas";
+$ full_Name = "BNP Paribas";
 
-$ name_Dear = "name_Dear";
+$ dear_Name = "name_Dear";
 
 $ gov_ID_Num = "1234567890";
 
 $ entity_a = "entity_a";
 
-$ adr = [../Geo/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc];
+$ adr = [../cmacc-example-geo/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc];
 
 $ adr_Type = "business";
 
-$ contact_Name_Formal = "contact_Name_Formal";
+$ contact_formal_Name = "contact_Name_Formal";
 
 $ sign_Rep = [../ID/_individual.cmacc];
 
 $ sign_Title = "sign_Title";
 
-$ pron = [../Form/_plur.cmacc];
-
+$ pron = [../cmacc-lib-fr/_plur.cmacc];

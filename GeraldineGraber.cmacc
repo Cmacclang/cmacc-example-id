@@ -1,19 +1,19 @@
-$ name_First = "Geraldine";
+$ first_Name = "Geraldine";
 
-$ name_Last = "Graber";
+$ last_Name = "Graber";
 
-$ name_Full = "{{name_First}} {{name_Last}}";
+$ full_Name = "{{first_Name}} {{last_Name}}";
 
-$ name_Formal = "Ms. Graber";
+$ formal_Name = "Ms. Graber";
 
 $ adr_Type = "business";
 
-$ email_Bus = "gerry@gerrysgrapes.com";
+$ bus_Email = "gerry@gerrysgrapes.com";
 
-$ adr = [../Geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc];
+$ adr = [../cmacc-example-geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc];
 
-$ Sign_RepTitle = "Self";
+$ Sign_Rep_Title = "Self";
 
-$ pron = [../Form/_sing.cmacc];
+$ pron = [../cmacc-lib-us/_sing.cmacc];
 
-$ gender = [./gender/she.cmacc];
+$ gender = [../cmacc-lib-us/_she.cmacc];

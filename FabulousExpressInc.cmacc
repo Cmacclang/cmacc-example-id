@@ -1,17 +1,15 @@
-$ adr = [../Geo/USA/TX/Travis/Austin/AlamoWay/333/Geo.cmacc];
+$ adr = [../cmacc-example-geo/USA/TX/Travis/Austin/AlamoWay/333/Geo.cmacc];
 
-$ name_Full = "Fabulous Express, Inc.";
+$ full_Name = "Fabulous Express, Inc.";
 
-$ name_Dear = "Fabulous Express";
+$ dear_Name = "Fabulous Express";
 
 $ entity_a = "a Delaware corporation";
 
 $ adr_Type = "business";
 
-$ sign_RepTitle = "sign_RepTitle";
+$ sign_Rep_Title = "sign_RepTitle";
 
-$ sign_Rep = [../US/_individual.cmacc];
+$ sign_Rep = [../cmacc-lib-id/_individual.cmacc];
 
-$ pron = [../Form/_plur.cmacc];
-
-
+$ pron = [../cmacc-lib-us/_plur.cmacc];
