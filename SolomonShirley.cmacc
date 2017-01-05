@@ -6,11 +6,11 @@ $ full_Name = "{{first_Name}} {{last_Name}}";
 
 $ formal_Name = "M. Solomon";
 
-$ gender = [../cmacc-lib-us/_he.cmacc];
+$ gender = [yarn://cmacc-lib-us/_he.cmacc];
 
-$ pron = [../cmacc-lib-us/_sing.cmacc];
+$ pron = [yarn://cmacc-lib-us/_sing.cmacc];
 
-$ adr = [../cmacc-example-geo/USA/MA/Middlesex/Cambridge/MadisonSt/100/Geo.cmacc];
+$ adr = [yarn://cmacc-example-geo/USA/MA/Middlesex/Cambridge/MadisonSt/100/Geo.cmacc];
 
 $ adr_Type = "business";
 

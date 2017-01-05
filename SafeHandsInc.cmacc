@@ -4,7 +4,7 @@ $ dear_Name = "Safe Hands Facilitated Transactions";
 
 $ entity_a = "a Delaware corporation";
 
-$ adr = [../cmacc-example-geo/USA/CA/San_Francisco/San_Francisco/BaySt/1550/Geo.cmacc];
+$ adr = [yarn://cmacc-example-geo/USA/CA/San_Francisco/San_Francisco/BaySt/1550/Geo.cmacc];
 
 $ adr_Type = "principal";
 
@@ -12,4 +12,4 @@ $ sign_Rep_Title = "COO";
 
 $ sign_Rep = [./SamuelHardy.cmacc];
 
-$ pron = [../cmacc-lib-us/_plur.cmacc];
+$ pron = [yarn://cmacc-lib-us/_plur.cmacc];

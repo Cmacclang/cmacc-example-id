@@ -10,10 +10,10 @@ $ adr_Type = "business";
 
 $ bus_Email = "gerry@gerrysgrapes.com";
 
-$ adr = [../cmacc-example-geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc];
+$ adr = [yarn://cmacc-example-geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc];
 
 $ Sign_Rep_Title = "Self";
 
-$ pron = [../cmacc-lib-us/_sing.cmacc];
+$ pron = [yarn://cmacc-lib-us/_sing.cmacc];
 
-$ gender = [../cmacc-lib-us/_she.cmacc];
+$ gender = [yarn://cmacc-lib-us/_she.cmacc];

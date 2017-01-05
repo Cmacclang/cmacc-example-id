@@ -10,10 +10,10 @@ $ sign_Title = "Self";
 
 $ email = "marie@matignon.fr";
 
-$ adr = [../cmacc-example-geo/FR/Ile_de_France/Paris/Paris/rue_du_grand_chemin/100/Geo.cmacc];
+$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/rue_du_grand_chemin/100/Geo.cmacc];
 
 $ adr_Type = "personal";
 
-$ pron = [../cmacc-lib-us/_sing.cmacc];
+$ pron = [yarn://cmacc-lib-us/_sing.cmacc];
 
-$ gender = [./cmacc-lib-us/_she.cmacc];
+$ gender = [yarn://cmacc-lib-us/_she.cmacc];

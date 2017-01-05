@@ -4,14 +4,14 @@ $ last_Name = "Hardy";
 
 $ full_Name = "{{first_Name}} {{last_Name}}";
 
-$ gender = [../cmacc-lib-us/_he.cmacc];
+$ gender = [yarn://cmacc-lib-us/_he.cmacc];
 
-$ adr = [../cmacc-example-geo/USA/CA/San_Francisco/San_Francisco/MissionSt/1101/Geo.cmacc];
+$ adr = [yarn://cmacc-example-geo/USA/CA/San_Francisco/San_Francisco/MissionSt/1101/Geo.cmacc];
 
 $ adr_Type = "business";
 
 $ sign_Rep_Title = "Self";
 
-$ pron = [../cmacc-lib-us/_sing.cmacc];
+$ pron = [yarn://cmacc-lib-us/_sing.cmacc];
 
 $ formal_Name = "M. Hardy";

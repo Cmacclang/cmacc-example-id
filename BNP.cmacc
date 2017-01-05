@@ -6,14 +6,14 @@ $ gov_ID_Num = "1234567890";
 
 $ entity_a = "entity_a";
 
-$ adr = [../cmacc-example-geo/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc];
+$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc];
 
 $ adr_Type = "business";
 
 $ contact_formal_Name = "contact_Name_Formal";
 
-$ sign_Rep = [../ID/_individual.cmacc];
+$ sign_Rep = [yarn:/cmacc-lib-id/_individual.cmacc];
 
 $ sign_Title = "sign_Title";
 
-$ pron = [../cmacc-lib-fr/_plur.cmacc];
+$ pron = [yarn://cmacc-lib-fr/_plur.cmacc];

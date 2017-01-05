@@ -1,4 +1,4 @@
-$ adr = [../cmacc-example-geo/USA/TX/Travis/Austin/AlamoWay/333/Geo.cmacc];
+$ adr = [yarn://cmacc-example-geo/USA/TX/Travis/Austin/AlamoWay/333/Geo.cmacc];
 
 $ full_Name = "Fabulous Express, Inc.";
 
@@ -10,6 +10,6 @@ $ adr_Type = "business";
 
 $ sign_Rep_Title = "sign_RepTitle";
 
-$ sign_Rep = [../cmacc-lib-id/_individual.cmacc];
+$ sign_Rep = [yarn://cmacc-lib-id/_individual.cmacc];
 
-$ pron = [../cmacc-lib-us/_plur.cmacc];
+$ pron = [yarn://cmacc-lib-us/_plur.cmacc];
