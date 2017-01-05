@@ -6,7 +6,7 @@ $ full_Name = "{{first_Name}} {{last_Name}}";
 
 $ city = [yarn://cmacc-example-geo/USA/MA/Suffolk/Boston.cmacc];
 
-/ setting for US
+// setting for US
 
 $ name_Prefix_US = "Mr.";
 
