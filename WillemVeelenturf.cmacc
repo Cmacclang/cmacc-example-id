@@ -6,6 +6,6 @@ $ full_Name = "{{first_Name}} {{last_Name}}";
 
 $ city = "Utrecht";
 
-$ gender = [../cmacc-lib-us/_he.cmacc];
+$ gender = [yarn://cmacc-lib-us/_he.cmacc];
 
-$ pron = [../cmacc-lib-us/_sing.cmacc];
+$ pron = [yarn://cmacc-lib-us/_sing.cmacc];
