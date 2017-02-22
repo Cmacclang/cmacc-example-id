@@ -22,10 +22,10 @@ $ notice_Title = "Personal";
 
 $ adr = [yarn://cmacc-example-geo/USA/NY/Ulster/Woodstock/WindingDr/666/Geo.cmacc];
 
-$ gender_US = [yarn://cmacc-lib-us/_she.cmacc];
+$ gender_US = [yarn://cmacc-lib-lang/EN/_she.cmacc];
 
-$ pron_US = [yarn://cmacc-lib-us/_sing.cmacc];
+$ pron_US = [yarn://cmacc-lib-lang/EN/_sing.cmacc];
 
 // info for France/French
 
-$ gender_FR = [yarn://cmacc-lib-fr/_elle.cmacc];
+$ gender_FR = [yarn://cmacc-lib-lang/FR/_elle.cmacc];

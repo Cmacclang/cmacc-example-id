@@ -12,4 +12,4 @@ $ sign_Rep_Title = "COO";
 
 $ sign_Rep = [./SamuelHardy.cmacc];
 
-$ pron = [yarn://cmacc-lib-us/_plur.cmacc];
+$ pron = [yarn://cmacc-lib-lang/EN/_plur.cmacc];
