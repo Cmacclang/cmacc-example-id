@@ -1,6 +1,6 @@
 {
   "name": "cmacc-example-id",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Sample IDs",
   "main": "index.js",
   "repository": "https://github.com/cmacclang/cmacc-example-id.git",
