@@ -14,6 +14,6 @@ $ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/rue_du_grand_chem
 
 $ adr_Type = "personal";
 
-$ pron = [yarn://cmacc-lib-us/_sing.cmacc];
+$ pron = [yarn://cmacc-lib-lang/EN/_sing.cmacc];
 
-$ gender = [yarn://cmacc-lib-us/_she.cmacc];
+$ gender = [yarn://cmacc-lib-lang/EN/_she.cmacc];

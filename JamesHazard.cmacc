@@ -12,10 +12,10 @@ $ name_Prefix_US = "Mr.";
 
 $ sign_Title_US = "Self";
 
-$ gender_US = [yarn://cmacc-lib-us/_he.cmacc];
+$ gender_US = [yarn://cmacc-lib-lang/EN/_he.cmacc];
 
 // settings for France
 
 $ name_Prefix_FR = "M.";
 
-$ gender_FR = [yarn://cmacc-lib-fr/_il.cmacc];
+$ gender_FR = [yarn://cmacc-lib-lang/FR/_il.cmacc];

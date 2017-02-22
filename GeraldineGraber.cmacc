@@ -14,6 +14,6 @@ $ adr = [yarn://cmacc-example-geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cm
 
 $ Sign_Rep_Title = "Self";
 
-$ pron = [yarn://cmacc-lib-us/_sing.cmacc];
+$ pron = [yarn://cmacc-lib-lang/EN/_sing.cmacc];
 
-$ gender = [yarn://cmacc-lib-us/_she.cmacc];
+$ gender = [yarn://cmacc-lib-lang/EN/_she.cmacc];
