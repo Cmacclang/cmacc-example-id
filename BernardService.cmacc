@@ -1,0 +1,31 @@
+$ full_Name = "Bernard Service";
+
+$ dear_Name = "name_Dear";
+
+$ gov_ID_Num = "1234567890";
+
+$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc];
+
+$ adr_Type = "business";
+
+$ contact_formal_Name = "contact_Name_Formal";
+
+$ sign_Rep = [yarn:/cmacc-example-id/MarcDangeard.cmacc];
+
+// settings for English
+
+$ entity_a_EN = "entity_a";
+
+$ sign_Title_EN = "Président";
+
+$ jurisdiction_Origin_EN = "français";
+
+// settings for French
+
+$ entity_a_FR = "une Société Anonyme à Responsabilité Limitée";
+
+$ expertise_FR = "la mise en place de la solution CommonAccord pour optimiser la gestion des contrats";
+
+$ sign_Title_FR = "Président";
+
+$ jurisdiction_Origin_FR = "français";
