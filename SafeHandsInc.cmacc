@@ -1,15 +1,15 @@
-$ full_Name = "Safe Hands Facilitated Transactions, Inc.";
+$ full_Name = "Safe Hands Facilitated Transactions, Inc."
 
-$ dear_Name = "Safe Hands Facilitated Transactions";
+$ formal_Name = "Safe Hands Facilitated Transactions"
 
-$ entity_a = "a Delaware corporation";
+$ adr = [yarn://cmacc-example-geo/USA/CA/San_Francisco/San_Francisco/BaySt/1550/Geo.cmacc]
 
-$ adr = [yarn://cmacc-example-geo/USA/CA/San_Francisco/San_Francisco/BaySt/1550/Geo.cmacc];
+$ sign_Rep = [./SamuelHardy.cmacc]
 
-$ adr_Type = "principal";
+// Settings for English
 
-$ sign_Rep_Title = "COO";
+$ entity_a_EN = "a Delaware corporation"
 
-$ sign_Rep = [./SamuelHardy.cmacc];
+$ adr_Type_EN = "principal"
 
-$ pron = [yarn://cmacc-lib-lang/EN/_plur.cmacc];
+$ sign_Rep_Title_EN = "COO"

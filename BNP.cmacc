@@ -1,19 +1,34 @@
-$ full_Name = "BNP Paribas";
+$ full_Name = "BNP Paribas"
 
-$ dear_Name = "name_Dear";
+$ formal_Name = "name_Dear"
 
-$ gov_ID_Num = "1234567890";
+$ gov_ID_Num = "1234567890"
 
-$ entity_a = "entity_a";
+$ contact_formal_Name = "contact_Name_Formal"
 
-$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc];
+$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc]
 
-$ adr_Type = "business";
+$ sign_Rep = [yarn:/cmacc-lib-id/_individual.cmacc]
 
-$ contact_formal_Name = "contact_Name_Formal";
+// settings for English
 
-$ sign_Rep = [yarn:/cmacc-lib-id/_individual.cmacc];
+$ entity_a_EN = "entity_a"
 
-$ sign_Title = "sign_Title";
+$ adr_Type_EN = "business"
 
-$ pron = [yarn://cmacc-lib-lang/FR/_plur.cmacc];
+$ sign_Title_EN = "President"
+
+$ jurisdiction_Origin_EN = "French"
+
+// settings for French
+
+$ entity_a_FR = "entity_a"
+
+$ adr_Type_FR = "business"
+
+$ expertise_FR = "expertise"
+
+$ sign_Title_FR = "Président"
+
+$ jurisdiction_Origin_FR = "français"
+

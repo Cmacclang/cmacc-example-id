@@ -1,15 +1,15 @@
-$ adr = [yarn://cmacc-example-geo/USA/TX/Travis/Austin/AlamoWay/333/Geo.cmacc];
+$ full_Name = "Fabulous Express, Inc."
 
-$ full_Name = "Fabulous Express, Inc.";
+$ formal_Name = "Fabulous Express"
 
-$ dear_Name = "Fabulous Express";
+$ adr = [yarn://cmacc-example-geo/USA/TX/Travis/Austin/AlamoWay/333/Geo.cmacc]
 
-$ entity_a = "a Delaware corporation";
+$ sign_Rep = [yarn://cmacc-lib-id/_individual.cmacc]
 
-$ adr_Type = "business";
+$ entity_a = "a Delaware corporation"
 
-$ sign_Rep_Title = "sign_RepTitle";
+// Settings for EN
 
-$ sign_Rep = [yarn://cmacc-lib-id/_individual.cmacc];
+$ adr_Type_EN = "business"
 
-$ pron = [yarn://cmacc-lib-lang/EN/_plur.cmacc];
+$ sign_Rep_Title_EN = "sign_RepTitle"

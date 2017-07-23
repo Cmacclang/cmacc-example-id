@@ -1,19 +1,19 @@
-$ first_Name = "Marie";
+$ first_Name = "Marie"
 
-$ last_Name = "Matignon";
+$ last_Name = "Matignon"
 
-$ full_Name = "{{first_Name}} {{last_Name}}";
+$ full_Name = "{{first_Name}} {{last_Name}}"
 
-$ formal_Name = "Mme. Matignon";
+$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/rue_du_grand_chemin/100/Geo.cmacc]
 
-$ sign_Title = "Self";
+$ email = "marie@matignon.fr"
 
-$ email = "marie@matignon.fr";
+// Settings for English
 
-$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/rue_du_grand_chemin/100/Geo.cmacc];
+$ formal_Name_EN = "Mme. Matignon"
 
-$ adr_Type = "personal";
+$ sign_Title_EN = "Self"
 
-$ pron = [yarn://cmacc-lib-lang/EN/_sing.cmacc];
+$ adr_Type_EN = "personal"
 
-$ gender = [yarn://cmacc-lib-lang/EN/_she.cmacc];
+$ gender_EN = [yarn://cmacc-lib-lang/EN/_she.cmacc]

@@ -1,11 +1,24 @@
-$ first_Name = "Willem";
+$ first_Name = "Willem"
 
-$ last_Name = "Veelenturf";
+$ last_Name = "Veelenturf"
 
-$ full_Name = "{{first_Name}} {{last_Name}}";
+$ full_Name = "{{first_Name}} {{last_Name}}"
 
-$ city = "Utrecht";
+$ city = "Utrecht"
 
-$ gender = [yarn://cmacc-lib-lang/EN/_he.cmacc];
+// setting for EN
 
-$ pron = [yarn://cmacc-lib-lang/EN/_sing.cmacc];
+$ name_Prefix_EN = "Mr."
+
+$ sign_Title_EN = "Self"
+
+$ gender_EN = [yarn://cmacc-lib-lang/EN/_he.cmacc]
+
+$ pron_EN = [yarn://cmacc-lib-lang/EN/_sing.cmacc]
+
+// settings for France
+
+$ name_Prefix_FR = "M."
+
+$ gender_FR = [yarn://cmacc-lib-lang/FR/_il.cmacc]
+

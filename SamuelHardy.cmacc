@@ -1,17 +1,19 @@
-$ first_Name = "Samuel";
+$ first_Name = "Samuel"
 
-$ last_Name = "Hardy";
+$ last_Name = "Hardy"
 
-$ full_Name = "{{first_Name}} {{last_Name}}";
+$ full_Name = "{{first_Name}} {{last_Name}}"
 
-$ gender = [yarn://cmacc-lib-lang/EN/_he.cmacc];
+$ adr = [yarn://cmacc-example-geo/USA/CA/San_Francisco/San_Francisco/MissionSt/1101/Geo.cmacc]
 
-$ adr = [yarn://cmacc-example-geo/USA/CA/San_Francisco/San_Francisco/MissionSt/1101/Geo.cmacc];
+// Settings for English
 
-$ adr_Type = "business";
+$ formal_Name_EN = "Mr Hardy"
 
-$ sign_Rep_Title = "Self";
+$ gender_EN = [yarn://cmacc-lib-lang/EN/_he.cmacc]
 
-$ pron = [yarn://cmacc-lib-lang/EN/_sing.cmacc];
+$ adr_Type_EN = "business"
 
-$ formal_Name = "M. Hardy";
+$ sign_Rep_Title_EN = "Self"
+
+$ pron_EN = [yarn://cmacc-lib-lang/EN/_sing.cmacc]

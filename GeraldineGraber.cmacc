@@ -1,19 +1,21 @@
-$ first_Name = "Geraldine";
+$ first_Name = "Geraldine"
 
-$ last_Name = "Graber";
+$ last_Name = "Graber"
 
-$ full_Name = "{{first_Name}} {{last_Name}}";
+$ full_Name = "{{first_Name}} {{last_Name}}"
 
-$ formal_Name = "Ms. Graber";
+$ adr = [yarn://cmacc-example-geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc]
 
-$ adr_Type = "business";
+$ bus_Email = "gerry@gerrysgrapes.com"
 
-$ bus_Email = "gerry@gerrysgrapes.com";
+// Settings for EN
 
-$ adr = [yarn://cmacc-example-geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc];
+$ formal_Name_EN = "Ms. Graber"
 
-$ Sign_Rep_Title = "Self";
+$ adr_Type_EN = "business"
 
-$ pron = [yarn://cmacc-lib-lang/EN/_sing.cmacc];
+$ Sign_Rep_Title_EN = "Self"
 
-$ gender = [yarn://cmacc-lib-lang/EN/_she.cmacc];
+$ gender_EN = [yarn://cmacc-lib-lang/EN/_she.cmacc]
+
+$ pron_EN = [yarn://cmacc-lib-lang/EN/_sing.cmacc]
