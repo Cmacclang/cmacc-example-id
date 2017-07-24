@@ -4,16 +4,16 @@ $ last_Name = "Hardy"
 
 $ full_Name = "{{first_Name}} {{last_Name}}"
 
-$ adr = [yarn://cmacc-example-geo/USA/CA/San_Francisco/San_Francisco/MissionSt/1101/Geo.cmacc]
+$ adr = [github:///cmacclang/cmacc-example-geo/dev/USA/CA/San_Francisco/San_Francisco/MissionSt/1101/Geo.cmacc]
 
 // Settings for English
 
 $ formal_Name_EN = "Mr Hardy"
 
-$ gender_EN = [yarn://cmacc-lib-lang/EN/_he.cmacc]
+$ gender_EN = [github:///cmacclang/cmacc-lib-lang/dev/EN/_he.cmacc]
 
 $ adr_Type_EN = "business"
 
 $ sign_Rep_Title_EN = "Self"
 
-$ pron_EN = [yarn://cmacc-lib-lang/EN/_sing.cmacc]
+$ pron_EN = [github:///cmacclang/cmacc-lib-lang/dev/EN/_sing.cmacc]

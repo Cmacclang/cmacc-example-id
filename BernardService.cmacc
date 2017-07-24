@@ -4,7 +4,7 @@ $ formal_Name = "name_Dear"
 
 $ gov_ID_Num = "1234567890"
 
-$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc]
+$ adr = [github:///cmacclang/cmacc-example-geo/dev/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc]
 
 $ sign_Rep = [./MarcDangeard.cmacc]
 

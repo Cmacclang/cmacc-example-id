@@ -6,9 +6,9 @@ $ gov_ID_Num = "1234567890"
 
 $ contact_formal_Name = "contact_Name_Formal"
 
-$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc]
+$ adr = [github:///cmacclang/cmacc-example-geo/dev/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc]
 
-$ sign_Rep = [yarn:/cmacc-lib-id/_individual.cmacc]
+$ sign_Rep = [github:///cmacclang/cmacc-lib-id/dev/_individual.cmacc]
 
 // settings for English
 

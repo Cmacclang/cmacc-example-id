@@ -2,7 +2,7 @@ $ full_Name = "Gerry's Grapes, LLC"
 
 $ formal_Name = "Gerry's Grapes"
 
-$ adr = [yarn://cmacc-example-geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc]
+$ adr = [github:///cmacclang/cmacc-example-geo/dev/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc]
 
 $ sign_Rep = [./GeraldineGraber.cmacc]
 

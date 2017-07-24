@@ -4,11 +4,11 @@ $ formal_Name = "name_Dear"
 
 $ gov_ID_Num = "12345"
 
-$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/rue_Taitbout/61/Geo.cmacc]
+$ adr = [github:///cmacclang/cmacc-example-geo/dev/FR/Ile_de_France/Paris/Paris/rue_Taitbout/61/Geo.cmacc]
 
 $ contact_Formal_Name = "contact_Name_Formal"
 
-$ sign_Rep = [yarn://cmacc-example-id/MarieMatignon.cmacc]
+$ sign_Rep = [github:///cmacclang/cmacc-example-id/dev/MarieMatignon.cmacc]
 
 // settings for English
 

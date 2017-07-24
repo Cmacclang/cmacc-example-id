@@ -2,7 +2,7 @@ $ full_Name = "Safe Hands Facilitated Transactions, Inc."
 
 $ formal_Name = "Safe Hands Facilitated Transactions"
 
-$ adr = [yarn://cmacc-example-geo/USA/CA/San_Francisco/San_Francisco/BaySt/1550/Geo.cmacc]
+$ adr = [github:///cmacclang/cmacc-example-geo/dev/USA/CA/San_Francisco/San_Francisco/BaySt/1550/Geo.cmacc]
 
 $ sign_Rep = [./SamuelHardy.cmacc]
 

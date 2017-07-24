@@ -2,9 +2,9 @@ $ full_Name = "Fabulous Express, Inc."
 
 $ formal_Name = "Fabulous Express"
 
-$ adr = [yarn://cmacc-example-geo/USA/TX/Travis/Austin/AlamoWay/333/Geo.cmacc]
+$ adr = [github:///cmacclang/cmacc-example-geo/dev/USA/TX/Travis/Austin/AlamoWay/333/Geo.cmacc]
 
-$ sign_Rep = [yarn://cmacc-lib-id/_individual.cmacc]
+$ sign_Rep = [github:///cmacclang/cmacc-lib-id/dev/_individual.cmacc]
 
 $ entity_a = "a Delaware corporation"
 
