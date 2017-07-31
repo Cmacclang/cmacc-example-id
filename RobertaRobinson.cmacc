@@ -6,6 +6,18 @@ $ full_Name = "{{first_Name}} {{last_Name}}"
 
 $ formal_Name = "Ms. Robinson"
 
+$ name_Prefix = "name_Prefix"
+
+$ notice_Title = "notice_Title"
+
+$ sign_Title = "sign_Title"
+
+$ adr_Type = "adr_Type"
+
+$ gender = "gender"
+
+$ pron = "pron"
+
 $ adr = [github:///cmacclaang/cmacc-example-geo/dev/USA/NY/Ulster/Woodstock/WindingDr/666/Geo.cmacc]
 
 $ phone = "918.981.8918"
@@ -16,7 +28,7 @@ $ bus_Fax = "918.981.8918"
 
 // info for US/English
 
-$ sign_Rep_Title_EN = "Self"
+$ sign_Title_EN = "Self"
 
 $ notice_Title_EN = "Personal"
 

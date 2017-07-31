@@ -6,6 +6,18 @@ $ full_Name = "{{first_Name}} {{last_Name}}"
 
 $ city = "Utrecht"
 
+$ name_Prefix = "name_Prefix"
+
+$ notice_Title = "notice_Title"
+
+$ sign_Title = "sign_Title"
+
+$ adr_Type = "adr_Type"
+
+$ gender = "gender"
+
+$ pron = "pron"
+
 // setting for EN
 
 $ name_Prefix_EN = "Mr."

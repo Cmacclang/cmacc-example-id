@@ -6,6 +6,14 @@ $ full_Name = "{{first_Name}} {{last_Name}}"
 
 $ formal_Name = "{{name_Prefix}} {{last_Name}}"
 
+$ name_Prefix = "name_Prefix"
+
+$ adr_Type = "adr_Type"
+
+$ sign_Title = "Self"
+
+$ gender = "gender"
+
 $ adr = [github:///cmacclang/cmacc-example-geo/dev/FR/Ile_de_France/Paris/Paris/rue_Doucement/999/Geo.cmacc]
 
 // setting for English

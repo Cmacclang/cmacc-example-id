@@ -4,6 +4,16 @@ $ last_Name = "Graber"
 
 $ full_Name = "{{first_Name}} {{last_Name}}"
 
+$ formal_Name = "formal_Namer"
+
+$ adr_Type = "adr_Type"
+
+$ Sign_Title = "Sign_Title"
+
+$ gender = "gender"
+
+$ pron = "pron"
+
 $ adr = [github:///cmacclang/cmacc-example-geo/dev/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc]
 
 $ bus_Email = "gerry@gerrysgrapes.com"
@@ -14,7 +24,7 @@ $ formal_Name_EN = "Ms. Graber"
 
 $ adr_Type_EN = "business"
 
-$ Sign_Rep_Title_EN = "Self"
+$ Sign_Title_EN = "Self"
 
 $ gender_EN = [github:///cmacclang/cmacc-lib-lang/dev/EN/_she.cmacc]
 

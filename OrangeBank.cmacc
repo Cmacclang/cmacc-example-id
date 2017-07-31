@@ -4,6 +4,18 @@ $ formal_Name = "name_Dear"
 
 $ gov_ID_Num = "12345"
 
+$ entity_a = "entity_a"
+
+$ expertise = "expertise"
+
+$ adr_Type = "adr_Type"
+
+$ contact_Formal_Name = "contact_Name_Formal"
+
+$ sign_Rep_Title = "sign_Title"
+
+$ jurisdiction_Origin = "jurisdiction_Origin"
+
 $ adr = [github:///cmacclang/cmacc-example-geo/dev/FR/Ile_de_France/Paris/Paris/rue_Taitbout/61/Geo.cmacc]
 
 $ contact_Formal_Name = "contact_Name_Formal"
@@ -14,7 +26,7 @@ $ sign_Rep = [github:///cmacclang/cmacc-example-id/dev/MarieMatignon.cmacc]
 
 $ entity_a_EN = "entity_a"
 
-$ sign_Title_EN = "CEO"
+$ sign_Rep_Title_EN = "CEO"
 
 $ adr_Type_EN = "business"
 
@@ -24,7 +36,7 @@ $ jurisdiction_Origin_EN = "french"
 
 $ entity_a_FR = "une Société Anonyme"
 
-$ sign_Title_FR = "Directeur Général"
+$ sign_Rep_Title_FR = "Directeur Général"
 
 $ adr_Type_FR = "siège social"
 

@@ -2,6 +2,18 @@ $ full_Name = "Safe Hands Facilitated Transactions, Inc."
 
 $ formal_Name = "Safe Hands Facilitated Transactions"
 
+$ entity_a = "entity_a"
+
+$ expertise = "expertise"
+
+$ adr_Type = "adr_Type"
+
+$ contact_Formal_Name = "contact_Name_Formal"
+
+$ sign_Rep_Title = "sign_Title"
+
+$ jurisdiction_Origin = "jurisdiction_Origin"
+
 $ adr = [github:///cmacclang/cmacc-example-geo/dev/USA/CA/San_Francisco/San_Francisco/BaySt/1550/Geo.cmacc]
 
 $ sign_Rep = [./SamuelHardy.cmacc]

@@ -2,13 +2,25 @@ $ full_Name = "Fabulous Express, Inc."
 
 $ formal_Name = "Fabulous Express"
 
+$ entity_a = "entity_a"
+
+$ expertise = "expertise"
+
+$ adr_Type = "adr_Type"
+
+$ contact_Formal_Name = "contact_Name_Formal"
+
+$ sign_Rep_Title = "sign_Title"
+
+$ jurisdiction_Origin = "jurisdiction_Origin"
+
 $ adr = [github:///cmacclang/cmacc-example-geo/dev/USA/TX/Travis/Austin/AlamoWay/333/Geo.cmacc]
 
 $ sign_Rep = [github:///cmacclang/cmacc-lib-id/dev/_individual.cmacc]
 
-$ entity_a = "a Delaware corporation"
-
 // Settings for EN
+
+$ entity_a_EN = "a Delaware corporation"
 
 $ adr_Type_EN = "business"
 

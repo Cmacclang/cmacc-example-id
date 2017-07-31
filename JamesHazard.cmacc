@@ -4,6 +4,12 @@ $ last_Name = "Hazard"
 
 $ full_Name = "{{first_Name}} {{last_Name}}"
 
+$ name_Prefix = "name_Prefix"
+
+$ sign_Title = "sign_Title"
+
+$ gender = "gender"
+
 $ city = [github:///cmacclang/cmacc-example-geo/dev/USA/MA/Suffolk/Boston.cmacc]
 
 // setting for English

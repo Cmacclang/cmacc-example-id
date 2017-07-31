@@ -4,6 +4,14 @@ $ last_Name = "Matignon"
 
 $ full_Name = "{{first_Name}} {{last_Name}}"
 
+$ name_Prefix = "name_Prefix"
+
+$ adr_Type = "adr_Type"
+
+$ sign_Title = "Self"
+
+$ gender = "gender"
+
 $ adr = [github:///cmacclang/cmacc-example-geo/dev/FR/Ile_de_France/Paris/Paris/rue_du_grand_chemin/100/Geo.cmacc]
 
 $ email = "marie@matignon.fr"
