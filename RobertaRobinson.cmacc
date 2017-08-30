@@ -1,31 +1,43 @@
-$ first_Name = "Roberta";
+$ first_Name = "Roberta"
 
-$ last_Name = "Robinson";
+$ last_Name = "Robinson"
 
-$ full_Name = "{{first_Name}} {{last_Name}}";
+$ full_Name = "{{first_Name}} {{last_Name}}"
 
-$ formal_Name = "Ms. Robinson";
+$ formal_Name = "Ms. Robinson"
 
-$ adr_Type = "business";
+$ name_Prefix = "name_Prefix"
 
-$ phone = "918.981.8918";
+$ notice_Title = "notice_Title"
 
-$ bus_Email = "roberta@robinsonandson.com";
+$ sign_Title = "sign_Title"
 
-$ bus_Fax = "918.981.8918";
+$ adr_Type = "adr_Type"
 
-$ sign_Rep_Title = "Self";
+$ gender = "gender"
 
-$ notice_Title = "Personal";
+$ pron = "pron"
+
+$ adr = [github:///cmacclaang/cmacc-example-geo/dev/USA/NY/Ulster/Woodstock/WindingDr/666/Geo.cmacc]
+
+$ phone = "918.981.8918"
+
+$ bus_Email = "roberta@robinsonandson.com"
+
+$ bus_Fax = "918.981.8918"
 
 // info for US/English
 
-$ adr = [yarn://cmacc-example-geo/USA/NY/Ulster/Woodstock/WindingDr/666/Geo.cmacc];
+$ sign_Title_EN = "Self"
 
-$ gender_US = [yarn://cmacc-lib-lang/EN/_she.cmacc];
+$ notice_Title_EN = "Personal"
 
-$ pron_US = [yarn://cmacc-lib-lang/EN/_sing.cmacc];
+$ adr_Type_EN = "business"
+
+$ gender_EN = [yarn://cmacc-lib-lang/EN/_she.cmacc]
+
+$ pron_EN = [yarn://cmacc-lib-lang/EN/_sing.cmacc]
 
 // info for France/French
 
-$ gender_FR = [yarn://cmacc-lib-lang/FR/_elle.cmacc];
+$ gender_FR = [yarn://cmacc-lib-lang/FR/_elle.cmacc]

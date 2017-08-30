@@ -1,17 +1,29 @@
-$ full_Name = "Gerry's Grapes, LLC";
+$ full_Name = "Gerry's Grapes, LLC"
 
-$ dear_Name = "Gerry's Grapes";
+$ formal_Name = "Gerry's Grapes"
 
-$ entity_a = "a Massachusetts LLC";
+$ entity_a = "entity_a"
 
-$ adr_Type = "business";
+$ expertise = "expertise"
 
-$ claim_Response_Delay = "two business days from the date of the Claim";
+$ adr_Type = "adr_Type"
 
-$ adr = [yarn://cmacc-example-geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc];
+$ contact_Formal_Name = "contact_Name_Formal"
 
-$ sign_Rep_Title = "Founder";
+$ sign_Rep_Title = "sign_Title"
 
-$ sign_Rep = [./GeraldineGraber.cmacc];
+$ jurisdiction_Origin = "jurisdiction_Origin"
 
-$ pron = [yarn://cmacc-lib-lang/EN/_plur.cmacc];
+$ adr = [yarn://cmacc-example-geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc]
+
+$ sign_Rep = [./GeraldineGraber.cmacc]
+
+$ claim_Response_Delay = "two business days from the date of the Claim"
+
+// Settings for English
+
+$ entity_a_EN = "a Massachusetts LLC"
+
+$ adr_Type_EN = "business"
+
+$ sign_Rep_Title_EN = "Founder"

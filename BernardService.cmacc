@@ -1,31 +1,43 @@
-$ full_Name = "Bernard Service";
+$ full_Name = "Bernard Service"
 
-$ dear_Name = "name_Dear";
+$ formal_Name = "name_Dear"
 
-$ gov_ID_Num = "1234567890";
+$ gov_ID_Num = "1234567890"
 
-$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc];
+$ entity_a = "entity_a"
 
-$ adr_Type = "business";
+$ expertise = "expertise"
 
-$ contact_formal_Name = "contact_Name_Formal";
+$ adr_Type = "adr_Type"
 
-$ sign_Rep = [yarn:/cmacc-example-id/MarcDangeard.cmacc];
+$ contact_Formal_Name = "contact_Name_Formal"
+
+$ sign_Rep_Title = "sign_Title"
+
+$ jurisdiction_Origin = "jurisdiction_Origin"
+
+$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc]
+
+$ sign_Rep = [./MarcDangeard.cmacc]
 
 // settings for English
 
-$ entity_a_EN = "entity_a";
+$ entity_a_EN = "entity_a"
 
-$ sign_Title_EN = "Président";
+$ adr_Type_EN = "business"
 
-$ jurisdiction_Origin_EN = "français";
+$ contact_Formal_Name_EN = "contact_Name_Formal"
+
+$ sign_Rep_Title_EN = "Président"
+
+$ jurisdiction_Origin_EN = "US"
 
 // settings for French
 
-$ entity_a_FR = "une Société Anonyme à Responsabilité Limitée";
+$ entity_a_FR = "une Société Anonyme à Responsabilité Limitée"
 
-$ expertise_FR = "la mise en place de la solution CommonAccord pour optimiser la gestion des contrats";
+$ expertise_FR = "la mise en place de la solution CommonAccord pour optimiser la gestion des contrats"
 
-$ sign_Title_FR = "Président";
+$ sign_Rep_Title_FR = "Président"
 
-$ jurisdiction_Origin_FR = "français";
+$ jurisdiction_Origin_FR = "français"

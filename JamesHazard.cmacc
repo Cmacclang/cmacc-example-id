@@ -1,21 +1,27 @@
-$ first_Name = "James";
+$ first_Name = "James"
 
-$ last_Name = "Hazard";
+$ last_Name = "Hazard"
 
-$ full_Name = "{{first_Name}} {{last_Name}}";
+$ full_Name = "{{first_Name}} {{last_Name}}"
 
-$ city = [yarn://cmacc-example-geo/USA/MA/Suffolk/Boston.cmacc];
+$ name_Prefix = "name_Prefix"
 
-// setting for US
+$ sign_Title = "sign_Title"
 
-$ name_Prefix_US = "Mr.";
+$ gender = "gender"
 
-$ sign_Title_US = "Self";
+$ city = [yarn://cmacc-example-geo/USA/MA/Suffolk/Boston.cmacc]
 
-$ gender_US = [yarn://cmacc-lib-lang/EN/_he.cmacc];
+// setting for English
 
-// settings for France
+$ name_Prefix_US = "Mr."
 
-$ name_Prefix_FR = "M.";
+$ sign_Title_US = "Self"
 
-$ gender_FR = [yarn://cmacc-lib-lang/FR/_il.cmacc];
+$ gender_US = [yarn://cmacc-lib-lang/EN/_he.cmacc]
+
+// settings for French
+
+$ name_Prefix_FR = "M."
+
+$ gender_FR = [yarn://cmacc-lib-lang/FR/_il.cmacc]

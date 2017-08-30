@@ -1,25 +1,39 @@
-$ last_Name = "Shirley";
+$ last_Name = "Shirley"
 
-$ first_Name = "Solomon";
+$ first_Name = "Solomon"
 
-$ full_Name = "{{first_Name}} {{last_Name}}";
+$ full_Name = "{{first_Name}} {{last_Name}}"
 
-$ formal_Name = "M. Solomon";
+$ name_Prefix = "name_Prefix"
 
-$ gender = [yarn://cmacc-lib-lang/EN/_he.cmacc];
+$ notice_Title = "notice_Title"
 
-$ pron = [yarn://cmacc-lib-lang/EN/_sing.cmacc];
+$ sign_Title = "sign_Title"
 
-$ adr = [yarn://cmacc-example-geo/USA/MA/Middlesex/Cambridge/MadisonSt/100/Geo.cmacc];
+$ adr_Type = "adr_Type"
 
-$ adr_Type = "business";
+$ gender = "gender"
 
-$ phone = "617.671.7617";
+$ pron = "pron"
 
-$ fax = "617.555.1110";
+$ adr = [yarn://cmacc-example-geo/USA/MA/Middlesex/Cambridge/MadisonSt/100/Geo.cmacc]
 
-$ email = "solomon.shirley@gmail.com";
+$ phone = "617.671.7617"
 
-$ atty = [./SamuelHardy.cmacc];
+$ fax = "617.555.1110"
 
-$ sign_Rep_Title = "Self";
+$ email = "solomon.shirley@gmail.com"
+
+$ atty = [./SamuelHardy.cmacc]
+
+// Settings for English
+
+$ formal_Name_EN = "M. Solomon"
+
+$ gender_EN = [yarn://cmacc-lib-lang/EN/_he.cmacc]
+
+$ pron_EN = [yarn://cmacc-lib-lang/EN/_sing.cmacc]
+
+$ adr_Type_EN = "business"
+
+$ sign_Title_EN = "Self"
