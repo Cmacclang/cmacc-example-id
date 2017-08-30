@@ -14,7 +14,7 @@ $ sign_Title = "Self"
 
 $ gender = "gender"
 
-$ adr = [github:///cmacclang/cmacc-example-geo/dev/FR/Ile_de_France/Paris/Paris/rue_Doucement/999/Geo.cmacc]
+$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/rue_Doucement/999/Geo.cmacc]
 
 // setting for English
 
@@ -24,7 +24,7 @@ $ adr_Type_EN = "adr_Type"
 
 $ sign_Title_EN = "Self"
 
-$ gender_EN = [github:///cmacclang/cmacc-lib-lang/dev/EN/_he.cmacc]
+$ gender_EN = [yarn://cmacc-lib-lang/EN/_he.cmacc]
 
 // settings for French
 
@@ -32,4 +32,4 @@ $ name_Prefix_FR = "M."
 
 $ adr_Type_FR = "adr_Type"
 
-$ gender_FR = [github:///cmacclang/cmacc-lib-lang/dev/FR/_il.cmacc]
+$ gender_FR = [yarn://cmacc-lib-lang/FR/_il.cmacc]

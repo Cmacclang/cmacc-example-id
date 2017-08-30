@@ -14,7 +14,7 @@ $ sign_Rep_Title = "sign_Title"
 
 $ jurisdiction_Origin = "jurisdiction_Origin"
 
-$ adr = [github:///cmacclang/cmacc-example-geo/dev/USA/CA/San_Francisco/San_Francisco/BaySt/1550/Geo.cmacc]
+$ adr = [yarn://cmacc-example-geo/USA/CA/San_Francisco/San_Francisco/BaySt/1550/Geo.cmacc]
 
 $ sign_Rep = [./SamuelHardy.cmacc]
 

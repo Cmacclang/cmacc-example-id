@@ -12,7 +12,7 @@ $ sign_Title = "Self"
 
 $ gender = "gender"
 
-$ adr = [github:///cmacclang/cmacc-example-geo/dev/FR/Ile_de_France/Paris/Paris/rue_du_grand_chemin/100/Geo.cmacc]
+$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/rue_du_grand_chemin/100/Geo.cmacc]
 
 $ email = "marie@matignon.fr"
 
@@ -24,4 +24,4 @@ $ sign_Title_EN = "Self"
 
 $ adr_Type_EN = "personal"
 
-$ gender_EN = [github:///cmacclang/cmacc-lib-lang/dev/EN/_she.cmacc]
+$ gender_EN = [yarn://cmacc-lib-lang/EN/_she.cmacc]

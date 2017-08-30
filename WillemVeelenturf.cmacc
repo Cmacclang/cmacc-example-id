@@ -24,13 +24,12 @@ $ name_Prefix_EN = "Mr."
 
 $ sign_Title_EN = "Self"
 
-$ gender_EN = [github:///cmacclang/cmacc-lib-lang/dev/EN/_he.cmacc]
+$ gender_EN = [yarn://cmacc-lib-lang/EN/_he.cmacc]
 
-$ pron_EN = [github:///cmacclang/cmacc-lib-lang/dev/EN/_sing.cmacc]
+$ pron_EN = [yarn://cmacc-lib-lang/EN/_sing.cmacc]
 
 // settings for France
 
 $ name_Prefix_FR = "M."
 
-$ gender_FR = [github:///cmacclang/cmacc-lib-lang/dev/FR/_il.cmacc]
-
+$ gender_FR = [yarn://cmacc-lib-lang/FR/_il.cmacc]

@@ -10,7 +10,7 @@ $ sign_Title = "sign_Title"
 
 $ gender = "gender"
 
-$ city = [github:///cmacclang/cmacc-example-geo/dev/USA/MA/Suffolk/Boston.cmacc]
+$ city = [yarn://cmacc-example-geo/USA/MA/Suffolk/Boston.cmacc]
 
 // setting for English
 
@@ -18,10 +18,10 @@ $ name_Prefix_US = "Mr."
 
 $ sign_Title_US = "Self"
 
-$ gender_US = [github:///cmacclang/cmacc-lib-lang/dev/EN/_he.cmacc]
+$ gender_US = [yarn://cmacc-lib-lang/EN/_he.cmacc]
 
 // settings for French
 
 $ name_Prefix_FR = "M."
 
-$ gender_FR = [github:///cmacclang/cmacc-lib-lang/dev/FR/_il.cmacc]
+$ gender_FR = [yarn://cmacc-lib-lang/FR/_il.cmacc]

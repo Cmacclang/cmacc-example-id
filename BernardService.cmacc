@@ -16,7 +16,7 @@ $ sign_Rep_Title = "sign_Title"
 
 $ jurisdiction_Origin = "jurisdiction_Origin"
 
-$ adr = [github:///cmacclang/cmacc-example-geo/dev/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc]
+$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc]
 
 $ sign_Rep = [./MarcDangeard.cmacc]
 

@@ -16,11 +16,11 @@ $ sign_Rep_Title = "sign_Title"
 
 $ jurisdiction_Origin = "jurisdiction_Origin"
 
-$ adr = [github:///cmacclang/cmacc-example-geo/dev/FR/Ile_de_France/Paris/Paris/rue_Taitbout/61/Geo.cmacc]
+$ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/rue_Taitbout/61/Geo.cmacc]
 
 $ contact_Formal_Name = "contact_Name_Formal"
 
-$ sign_Rep = [github:///cmacclang/cmacc-example-id/dev/MarieMatignon.cmacc]
+$ sign_Rep = [./MarieMatignon.cmacc]
 
 // settings for English
 
