@@ -1,6 +1,6 @@
 {
   "name": "cmacc-example-id",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Sample IDs",
   "main": "index.js",
   "repository": "https://github.com/cmacclang/cmacc-example-id.git",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "flat": true,
   "dependencies": {
-    "cmacc-example-geo": "2.0.3",
+    "cmacc-example-geo": "2.0.1",
     "cmacc-lib-id": "2.0.1",
     "cmacc-lib-lang": "2.0.3"
   },
