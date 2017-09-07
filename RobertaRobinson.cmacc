@@ -18,7 +18,7 @@ $ gender = "gender"
 
 $ pron = "pron"
 
-$ adr = [github:///cmacclaang/cmacc-example-geo/dev/USA/NY/Ulster/Woodstock/WindingDr/666/Geo.cmacc]
+$ adr = [yarn://cmacc-example-geo/USA/NY/Ulster/Woodstock/WindingDr/666/Geo.cmacc]
 
 $ phone = "918.981.8918"
 
