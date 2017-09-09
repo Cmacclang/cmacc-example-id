@@ -10,7 +10,7 @@ $ adr_Type = "adr_Type"
 
 $ contact_Formal_Name = "contact_Name_Formal"
 
-$ sign_Rep_Title = "sign_Title"
+$ sign_Rep_Title = "General Manager"
 
 $ jurisdiction_Origin = "jurisdiction_Origin"
 
@@ -20,6 +20,8 @@ $ sign_Rep = [./GeraldineGraber.cmacc]
 
 $ claim_Response_Delay = "two business days from the date of the Claim"
 
+$ pron = "pron"
+
 // Settings for English
 
 $ entity_a_EN = "a Massachusetts LLC"
@@ -27,3 +29,5 @@ $ entity_a_EN = "a Massachusetts LLC"
 $ adr_Type_EN = "business"
 
 $ sign_Rep_Title_EN = "Founder"
+
+$ pron_EN = [yarn://cmacc-lib-lang/EN/_plur.cmacc]
