@@ -10,7 +10,7 @@ $ adr_Type = "adr_Type"
 
 $ contact_Formal_Name = "contact_Name_Formal"
 
-$ sign_Rep_Title = "sign_Title"
+$ sign_Rep_Title = "President"
 
 $ jurisdiction_Origin = "jurisdiction_Origin"
 
@@ -25,3 +25,5 @@ $ entity_a_EN = "a Delaware corporation"
 $ adr_Type_EN = "principal"
 
 $ sign_Rep_Title_EN = "COO"
+
+$ pron_EN = [yarn://cmacc-lib-lang/EN/_plur.cmacc]

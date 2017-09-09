@@ -32,6 +32,8 @@ $ adr_Type_EN = "business"
 
 $ jurisdiction_Origin_EN = "french"
 
+$ pron_EN = [yarn://cmacc-lib-lang/EN/_plur.cmacc]
+
 // settings for French
 
 $ entity_a_FR = "une Société Anonyme"
@@ -41,3 +43,5 @@ $ sign_Rep_Title_FR = "Directeur Général"
 $ adr_Type_FR = "siège social"
 
 $ jurisdiction_Origin_FR = "français"
+
+$ pron_FR = [yarn://cmacc-lib-lang/FR/_plur.cmacc]

@@ -18,6 +18,8 @@ $ sign_Rep_Title = "sign_Title"
 
 $ jurisdiction_Origin = "jurisdiction_Origin"
 
+$ pron = "pron"
+
 $ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc]
 
 $ sign_Rep = [yarn://cmacc-lib-id/_individual.cmacc]
@@ -32,6 +34,8 @@ $ sign_Rep_Title_EN = "President"
 
 $ jurisdiction_Origin_EN = "French"
 
+$ pron_EN = [yarn://cmacc-lib-lang/EN/_plur.cmacc]
+
 // settings for French
 
 $ entity_a_FR = "entity_a"
@@ -43,3 +47,5 @@ $ expertise_FR = "expertise"
 $ sign_Rep_Title_FR = "Président"
 
 $ jurisdiction_Origin_FR = "français"
+
+$ pron_FR = [yarn://cmacc-lib-lang/FR/_plur.cmacc]

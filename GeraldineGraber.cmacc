@@ -4,7 +4,7 @@ $ last_Name = "Graber"
 
 $ full_Name = "{{first_Name}} {{last_Name}}"
 
-$ formal_Name = "formal_Namer"
+$ formal_Name = "formal_Name"
 
 $ adr_Type = "adr_Type"
 
