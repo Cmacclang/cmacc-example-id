@@ -16,6 +16,8 @@ $ sign_Rep_Title = "sign_Title"
 
 $ jurisdiction_Origin = "jurisdiction_Origin"
 
+$ pron = "pron"
+
 $ adr = [yarn://cmacc-example-geo/FR/Ile_de_France/Paris/Paris/blvd_Haussman/5/Geo.cmacc]
 
 $ sign_Rep = [./MarcDangeard.cmacc]
@@ -32,6 +34,8 @@ $ sign_Rep_Title_EN = "Président"
 
 $ jurisdiction_Origin_EN = "US"
 
+$ pron_EN = [yarn://cmacc-lib-lang/EN/_plur.cmacc]
+
 // settings for French
 
 $ entity_a_FR = "une Société Anonyme à Responsabilité Limitée"
@@ -41,3 +45,5 @@ $ expertise_FR = "la mise en place de la solution CommonAccord pour optimiser la
 $ sign_Rep_Title_FR = "Président"
 
 $ jurisdiction_Origin_FR = "français"
+
+$ pron_FR = [yarn://cmacc-lib-lang/FR/_plur.cmacc]

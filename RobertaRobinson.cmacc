@@ -41,3 +41,5 @@ $ pron_EN = [yarn://cmacc-lib-lang/EN/_sing.cmacc]
 // info for France/French
 
 $ gender_FR = [yarn://cmacc-lib-lang/FR/_elle.cmacc]
+
+$ pron_FR = [yarn://cmacc-lib-lang/FR/_sing.cmacc]

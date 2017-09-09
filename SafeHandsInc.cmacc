@@ -25,3 +25,5 @@ $ entity_a_EN = "a Delaware corporation"
 $ adr_Type_EN = "principal"
 
 $ sign_Rep_Title_EN = "COO"
+
+$ pron_EN = [yarn://cmacc-lib-lang/EN/_plur.cmacc]

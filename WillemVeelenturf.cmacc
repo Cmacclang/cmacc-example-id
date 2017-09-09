@@ -33,3 +33,5 @@ $ pron_EN = [yarn://cmacc-lib-lang/EN/_sing.cmacc]
 $ name_Prefix_FR = "M."
 
 $ gender_FR = [yarn://cmacc-lib-lang/FR/_il.cmacc]
+
+$ pron_FR = [yarn://cmacc-lib-lang/FR/_sing.cmacc]
